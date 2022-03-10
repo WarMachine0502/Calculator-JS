@@ -37,10 +37,6 @@ section{
     position: relative;
 }
 
-.display:hover{
-    transform: scale(1.);
-}
-
 .display-1{
     opacity: .4;
     font-size: 20px;
@@ -76,7 +72,6 @@ section{
 }
 
 .button:hover{
-    border: 2px solid black;
     color: black;
     background-color: whitesmoke;
     transform: scale(1.05);
